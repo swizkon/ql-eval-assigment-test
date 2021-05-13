@@ -1,0 +1,32 @@
+﻿*.swp
+*.*~
+project.lock.json
+.DS_Store
+nupkg/
+
+appsettings.Development.json
+
+mono_crash*
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+build/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+packages/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+*.ncrunchsolution
